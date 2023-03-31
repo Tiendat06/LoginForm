@@ -13,6 +13,7 @@ namespace LoginForm
 {
     public partial class frmUser : Form
     {
+        // command line
         public frmUser()
         {
             InitializeComponent();
